@@ -1,2 +1,2 @@
-# Anime-Database
-Web scraping and compiling a database of anime characters and information
+# Anime-API
+Web scraping and compiling an api of anime characters and information
